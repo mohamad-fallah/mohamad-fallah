@@ -26,8 +26,8 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 
 ## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad-fallah&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamad-fallah&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad-fallah&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamad-fallah&show_icons=true&theme=tokyonight)
 
 ## Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mohamad-fallah) 
