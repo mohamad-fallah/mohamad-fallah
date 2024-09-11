@@ -1,7 +1,4 @@
 # Hello! I'm Mohammad Fallah 👋
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg)
-
 ## About Me
 I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 with a passion for learning and exploring new technologies. I am always eager to take on new challenges and continuously improve my skills.
 
