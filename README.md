@@ -13,8 +13,11 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 ### Programming Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next-dot-js&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=mui&logoColor=white) ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5F56?style=flat-square&logo=react&logoColor=white) ![Zustand](https://img.shields.io/badge/-Zustand-FF5C00?style=flat-square&logo=redux&logoColor=white)
+### Frameworks
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next-dot-js&logoColor=white)
+
+### Libraries
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux) ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=mui&logoColor=white) ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5F56?style=flat-square&logo=react&logoColor=white) ![Zustand](https://img.shields.io/badge/-Zustand-FF5C00?style=flat-square&logo=redux&logoColor=white) ![Axios](https://img.shields.io/badge/-Axios-5A29E1?style=flat-square&logo=axios&logoColor=white)
 
 ### Development Tools
 ![NPM](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![GitLab](https://img.shields.io/badge/-GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -23,8 +26,7 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ### API & Languages
-![Context API](https://img.shields.io/badge/-Context%20API-61DAFB?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Axios](https://img.shields.io/badge/-Axios-5A29E1?style=flat-square&logo=axios&logoColor=white)
-
+![Context API](https://img.shields.io/badge/-Context%20API-61DAFB?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 
 ## GitHub Stats
