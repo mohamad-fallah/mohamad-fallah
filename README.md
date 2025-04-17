@@ -38,3 +38,7 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mohamadrezafl)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mmdrezaFL)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mfallahfaal@gmail.com)
+
+## WakaTime Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
