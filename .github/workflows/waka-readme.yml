@@ -1,30 +1,28 @@
 name: Waka Readme Daily Update
 
 on:
-  workflow_dispatch: 
+  workflow_dispatch: # امکان اجرای دستی
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # اجرا هر روز در 12 صبح UTC
 
 jobs:
   update-readme:
-    name: Update WakaReadme DevMetrics
+    name: Update WakaReadme Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} 
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} 
-          SHOW_TITLE: true 
-          SECTION_NAME: waka 
-          BLOCKS: "=>-"
-          TIME_RANGE: last_7_days 
-          LANG_COUNT: 5 
-          SHOW_TIME: true 
-          SHOW_TOTAL: true 
-          SHOW_MASKED_TIME: false 
-          STOP_AT_OTHER: true 
-          COMMIT_MESSAGE: "Updated WakaTime stats in README" 
-          SHOW_OS: true 
-          SHOW_EDITORS: true 
-          SHOW_PROJECTS: true 
-          SHOW_BEST_LANGUAGE: true 
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # کلید API الزامی
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} # اختیاری برای مخزن‌های غیرپروفایل
+          SHOW_OS: "True" # نمایش سیستم‌عامل
+          SHOW_PROJECTS: "True" # نمایش پروژه‌ها
+          SHOW_EDITORS: "True" # نمایش IDE
+          SHOW_TIMEZONE: "True" # نمایش منطقه زمانی
+          SHOW_COMMIT: "True" # نمایش آمار کامیت
+          SHOW_LANGUAGE: "True" # نمایش زبان‌ها
+          SHOW_LINES_OF_CODE: "True" # نمایش خطوط کد
+          SHOW_TOTAL_CODE_TIME: "True" # نمایش کل زمان کدنویسی
+          SHOW_PROFILE_VIEWS: "False" # عدم نمایش بازدید پروفایل
+          SHOW_LANGUAGE_PER_REPO: "True" # نمایش زبان‌ها در هر مخزن
+          SHOW_LOC_CHART: "True" # نمایش نمودار خطوط کد
+          COMMIT_MESSAGE: "Updated WakaTime stats in README" # پیام کامیت
