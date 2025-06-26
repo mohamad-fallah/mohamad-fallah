@@ -84,21 +84,16 @@ Sunday                   113 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-CSS                      28 mins             ██████████░░░░░░░░░░░░░░░   41.75 % 
-HTML                     16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
-JavaScript               13 mins             █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-JSON                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Trae                     1 hr 7 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-project                  1 hr 4 mins         ████████████████████████░   95.57 % 
-test                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,5 +113,5 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohamad-fallah/mohamad-fallah/main/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2025 02:32:10 UTC
+ Last Updated on 26/06/2025 02:28:41 UTC
 <!--END_SECTION:waka-->
