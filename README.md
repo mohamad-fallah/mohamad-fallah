@@ -41,7 +41,7 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ## WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C104%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C106%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
@@ -84,16 +84,21 @@ Sunday                   113 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     38 mins             ████████░░░░░░░░░░░░░░░░░   33.42 % 
+TypeScript               30 mins             ███████░░░░░░░░░░░░░░░░░░   26.23 % 
+JavaScript               29 mins             ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+Go                       16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Trae                     1 hr 55 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+eletron                  1 hr 38 mins        █████████████████████░░░░   85.10 % 
+proge                    17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -113,5 +118,5 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohamad-fallah/mohamad-fallah/main/assets/bar_graph.png)
 
 
- Last Updated on 27/06/2025 02:29:42 UTC
+ Last Updated on 28/06/2025 02:25:32 UTC
 <!--END_SECTION:waka-->
