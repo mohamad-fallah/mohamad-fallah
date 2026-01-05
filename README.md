@@ -41,7 +41,7 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ## WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C093%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C095%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.08%20million%20lines%20of%20code-blue)
 
@@ -49,7 +49,7 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 26 Contributions in the Year 2026
+> 🏆 28 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,6 +57,52 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                208 commits         █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+🌆 Daytime                268 commits         ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
+🌃 Evening                559 commits         █████████████░░░░░░░░░░░░   53.70 % 
+🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Tuesday                  88 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Wednesday                61 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Thursday                 149 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Friday                   298 commits         ███████░░░░░░░░░░░░░░░░░░   28.63 % 
+Saturday                 132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Sunday                   207 commits         █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tehran
+
+💬 Programming Languages: 
+TypeScript               24 hrs 56 mins      █████████████████████████   98.94 % 
+Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🔥 Editors: 
+Cursor                   25 hrs 12 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+console                  11 hrs 38 mins      ████████████░░░░░░░░░░░░░   46.18 % 
+ao-my-panel              7 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   29.91 % 
+fxreplay                 5 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+my-ao                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+gereft-console           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+
+💻 Operating System: 
+Windows                  25 hrs 12 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -68,5 +114,11 @@ C#                       1 repo              █░░░░░░░░░░�
 ```
 
 
- Last Updated on 04/01/2026 02:13:45 UTC
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/mohamad-fallah/mohamad-fallah/main/assets/bar_graph.png)
+
+
+ Last Updated on 05/01/2026 02:13:20 UTC
 <!--END_SECTION:waka-->
