@@ -41,7 +41,7 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ## WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C114%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C118%20hrs%2049%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.08%20million%20lines%20of%20code-blue?style=flat)
 
@@ -57,6 +57,46 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                208 commits         █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+🌆 Daytime                306 commits         ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+🌃 Evening                559 commits         █████████████░░░░░░░░░░░░   51.81 % 
+🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Tuesday                  88 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Wednesday                68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Thursday                 149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Friday                   298 commits         ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+Saturday                 132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Sunday                   207 commits         █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tehran
+
+💬 Programming Languages: 
+TypeScript               9 hrs 52 mins       ████████████████████████░   97.38 % 
+CSS                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+
+🔥 Editors: 
+Cursor                   10 hrs 8 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+ao-my-panel              10 hrs 8 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  10 hrs 8 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -74,5 +114,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohamad-fallah/mohamad-fallah/main/assets/bar_graph.png)
 
 
- Last Updated on 02/02/2026 02:39:04 UTC
+ Last Updated on 03/02/2026 02:35:35 UTC
 <!--END_SECTION:waka-->
