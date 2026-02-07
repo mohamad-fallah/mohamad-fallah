@@ -41,7 +41,7 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ## WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C125%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C127%20hrs%2017%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.08%20million%20lines%20of%20code-blue?style=flat)
 
@@ -84,18 +84,19 @@ Sunday                   207 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-TypeScript               14 hrs 7 mins       █████████████████████████   98.15 % 
-CSS                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+TypeScript               13 hrs 33 mins      ████████████████████████░   97.00 % 
+CSS                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🔥 Editors: 
-Cursor                   14 hrs 23 mins      █████████████████████████   100.00 % 
+Cursor                   13 hrs 58 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ao-my-panel              14 hrs 23 mins      █████████████████████████   100.00 % 
+ao-my-panel              13 hrs 36 mins      ████████████████████████░   97.40 % 
+fxreplay                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 💻 Operating System: 
-Windows                  14 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -115,5 +116,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohamad-fallah/mohamad-fallah/main/assets/bar_graph.png)
 
 
- Last Updated on 06/02/2026 02:32:37 UTC
+ Last Updated on 07/02/2026 02:27:49 UTC
 <!--END_SECTION:waka-->
