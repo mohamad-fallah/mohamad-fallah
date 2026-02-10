@@ -41,7 +41,7 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ## WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C137%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C139%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.08%20million%20lines%20of%20code-blue?style=flat)
 
@@ -84,19 +84,19 @@ Sunday                   207 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-TypeScript               22 hrs 41 mins      █████████████████████████   98.11 % 
-CSS                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+TypeScript               20 hrs 14 mins      █████████████████████████   99.16 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Cursor                   23 hrs 7 mins       █████████████████████████   100.00 % 
+Cursor                   20 hrs 24 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ao-my-panel              22 hrs 40 mins      █████████████████████████   98.07 % 
-fxreplay                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+ao-my-panel              19 hrs 57 mins      ████████████████████████░   97.82 % 
+fxreplay                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 💻 Operating System: 
-Windows                  23 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  20 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -116,5 +116,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohamad-fallah/mohamad-fallah/main/assets/bar_graph.png)
 
 
- Last Updated on 09/02/2026 02:40:06 UTC
+ Last Updated on 10/02/2026 02:48:45 UTC
 <!--END_SECTION:waka-->
