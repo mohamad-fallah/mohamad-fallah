@@ -108,12 +108,5 @@ Python                   2 repos             ██░░░░░░░░░�
 C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/mohamad-fallah/mohamad-fallah/main/assets/bar_graph.png)
-
-
  Last Updated on 21/02/2026 02:26:21 UTC
 <!--END_SECTION:waka-->
