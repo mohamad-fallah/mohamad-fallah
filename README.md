@@ -84,19 +84,16 @@ Sunday                   230 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-TypeScript               1 hr 20 mins        █████████████████████░░░░   83.84 % 
-Markdown                 14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   1 hr 35 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-fxreplay                 1 hr 32 mins        ████████████████████████░   96.61 % 
-ao-my-panel              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 35 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -116,5 +113,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohamad-fallah/mohamad-fallah/main/assets/bar_graph.png)
 
 
- Last Updated on 01/03/2026 02:45:14 UTC
+ Last Updated on 02/03/2026 02:33:52 UTC
 <!--END_SECTION:waka-->
