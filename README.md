@@ -41,8 +41,6 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ## WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C177%20hrs%2039%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.10%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -57,45 +55,6 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                241 commits         █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-🌆 Daytime                320 commits         ███████░░░░░░░░░░░░░░░░░░   27.33 % 
-🌃 Evening                598 commits         █████████████░░░░░░░░░░░░   51.07 % 
-🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Tuesday                  97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-Wednesday                75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Thursday                 165 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Friday                   329 commits         ███████░░░░░░░░░░░░░░░░░░   28.10 % 
-Saturday                 138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Sunday                   230 commits         █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tehran
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -113,5 +72,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohamad-fallah/mohamad-fallah/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 03:49:42 UTC
+ Last Updated on 15/05/2026 03:52:56 UTC
 <!--END_SECTION:waka-->
