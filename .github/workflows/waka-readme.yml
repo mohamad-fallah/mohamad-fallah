@@ -18,12 +18,17 @@ jobs:
           SHOW_OS: "False" # مخفی کردن سیستم‌عامل
           SHOW_PROJECTS: "False" # مخفی کردن پروژه‌ها
           SHOW_EDITORS: "False" # مخفی کردن IDE / Editor
-          SHOW_TIMEZONE: "True" # نمایش منطقه زمانی
-          SHOW_COMMIT: "True" # نمایش آمار کامیت
+          SHOW_TIMEZONE: "False" # مخفی کردن منطقه زمانی
+          SHOW_COMMIT: "False" # مخفی کردن آمار کامیت
           SHOW_LANGUAGE: "True" # نمایش زبان‌ها
           SHOW_LINES_OF_CODE: "True" # نمایش خطوط کد
           SHOW_TOTAL_CODE_TIME: "True" # نمایش کل زمان کدنویسی
           SHOW_PROFILE_VIEWS: "False" # عدم نمایش بازدید پروفایل
-          SHOW_LANGUAGE_PER_REPO: "True" # نمایش زبان‌ها در هر مخزن
+          SHOW_LANGUAGE_PER_REPO: "False" # مخفی کردن زبان‌ها در هر مخزن
           SHOW_LOC_CHART: "False" # خاموش کردن نمودار
+          SHOW_SHORT_INFO: "False" # مخفی کردن اطلاعات گیتهاب
+          SHOW_UPDATED_DATE: "False" # مخفی کردن تاریخ آپدیت
+          SHOW_GITHUB_PROFILE: "False" # مخفی کردن بخش پروفایل گیتهاب
+          SHOW_DAYS_OF_WEEK: "False" # مخفی کردن فعالیت روزهای هفته
+
           COMMIT_MESSAGE: "Updated WakaTime stats in README" # پیام کامیت
