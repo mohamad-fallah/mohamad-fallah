@@ -9,14 +9,15 @@ jobs:
   update-readme:
     name: Update WakaReadme Stats
     runs-on: ubuntu-latest
+
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # کلید API الزامی
           GH_TOKEN: ${{ secrets.GH_TOKEN }} # اختیاری برای مخزن‌های غیرپروفایل
-          SHOW_OS: "True" # نمایش سیستم‌عامل
-          SHOW_PROJECTS: "True" # نمایش پروژه‌ها
-          SHOW_EDITORS: "True" # نمایش IDE
+          SHOW_OS: "False" # مخفی کردن سیستم‌عامل
+          SHOW_PROJECTS: "False" # مخفی کردن پروژه‌ها
+          SHOW_EDITORS: "False" # مخفی کردن IDE / Editor
           SHOW_TIMEZONE: "True" # نمایش منطقه زمانی
           SHOW_COMMIT: "True" # نمایش آمار کامیت
           SHOW_LANGUAGE: "True" # نمایش زبان‌ها
@@ -24,5 +25,5 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "True" # نمایش کل زمان کدنویسی
           SHOW_PROFILE_VIEWS: "False" # عدم نمایش بازدید پروفایل
           SHOW_LANGUAGE_PER_REPO: "True" # نمایش زبان‌ها در هر مخزن
-          SHOW_LOC_CHART: "True" # نمایش نمودار خطوط کد
+          SHOW_LOC_CHART: "False" # خاموش کردن نمودار
           COMMIT_MESSAGE: "Updated WakaTime stats in README" # پیام کامیت
