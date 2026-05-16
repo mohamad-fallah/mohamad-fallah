@@ -64,60 +64,12 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.60%20million%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 158 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 20 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                247 commits         █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-🌆 Daytime                336 commits         ███████░░░░░░░░░░░░░░░░░░   28.02 % 
-🌃 Evening                604 commits         █████████████░░░░░░░░░░░░   50.38 % 
-🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Tuesday                  100 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-Wednesday                75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-Thursday                 165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Friday                   334 commits         ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-Saturday                 147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Sunday                   237 commits         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Tehran
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in JavaScript** 
 
-```text
-JavaScript               11 repos            █████████░░░░░░░░░░░░░░░░   37.93 % 
-TypeScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-```
-
-
-
-
- Last Updated on 16/05/2026 07:56:01 UTC
 <!--END_SECTION:waka-->
