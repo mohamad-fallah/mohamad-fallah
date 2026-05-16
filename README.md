@@ -6,7 +6,7 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 - 🔭 Currently working as a **Web Developer**.
 - 🌱 Learning **React** and working on practice projects.
 - 👯 Looking to collaborate on open source and team projects.
-- 📫 How to reach me: [Email](mailto:Mfallahfaal@gmail.com), [Instagram](https://instagram.com/mohamadrezafl), [Telegram](https://t.me/mmdrezaFL)
+- 📫 How to reach me: [Email](mailto:Mfallahfaal@gmail.com), [Telegram](https://t.me/mmdrezaFL)
 
 ## Skills
 
