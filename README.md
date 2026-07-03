@@ -68,11 +68,11 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ```text
 💬 Programming Languages: 
-TypeScript               31 hrs 39 mins      ███████████████████░░░░░░   77.24 % 
-JSON                     3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Other                    1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-CSS                      1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Markdown                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+TypeScript               28 hrs 54 mins      ████████████████████░░░░░   81.62 % 
+JSON                     2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Other                    1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+CSS                      58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Bash                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 ```
 
 
