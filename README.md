@@ -60,19 +60,19 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ## WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C354%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C367%20hrs%205%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.05%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.16%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               42 hrs 55 mins      ███████████████████████░░   93.61 % 
-Bash                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-JSON                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-Other                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-CSS                      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+TypeScript               51 hrs 1 min        ███████████████████████░░   93.30 % 
+Bash                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+JSON                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Other                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+CSS                      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 
 
