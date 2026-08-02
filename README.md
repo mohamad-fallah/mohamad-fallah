@@ -70,17 +70,17 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ```text
 💬 Programming Languages: 
-TypeScript               18 hrs 58 mins      ███████████████████████░░   93.35 % 
-Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-Other                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-CSS                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+TypeScript               18 hrs 55 mins      ████████████████████████░   94.95 % 
+Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+CSS                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 48 mins (92.52%)
+⏱ AI Coding Time: 18 hrs 28 mins (92.63%)
 
 ✍️ 28,485 lines written by AI, 441 lines written by hand (98.48% AI-written)
 
@@ -88,15 +88,15 @@ JSON                     5 mins              ░░░░░░░░░░░�
 
 💵 $1787.63 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 366 AI Prompts
+🧠 12 AI Sessions, 359 AI Prompts
 
 GPT                      31,328 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 98.48% of written lines came from AI
-📝 Concise Prompter — average 493 characters per prompt
-🔁 Iterative Prompter — average 26 prompts per session
-🚀 High AI Trust — 1.66% of changed lines were hand-edited
+📝 Concise Prompter — average 436 characters per prompt
+🔁 Iterative Prompter — average 30 prompts per session
+🚀 High AI Trust — 1.65% of changed lines were hand-edited
 ```
 
 
