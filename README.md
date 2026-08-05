@@ -70,33 +70,33 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ```text
 💬 Programming Languages: 
-TypeScript               20 hrs 27 mins      ████████████████████████░   96.30 % 
-Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+TypeScript               18 hrs 35 mins      ████████████████████████░   97.07 % 
+Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 13 mins (95.17%)
+⏱ AI Coding Time: 18 hrs 33 mins (96.94%)
 
-✍️ 20,762 lines written by AI, 446 lines written by hand (97.9% AI-written)
+✍️ 20,025 lines written by AI, 442 lines written by hand (97.84% AI-written)
 
-🔤 368,127,991 Input Tokens, 1,406,910 Output Tokens
+🔤 334,203,517 Input Tokens, 1,289,609 Output Tokens
 
-💵 $1929.45 Estimated AI Cost This Week
+💵 $1769.24 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 270 AI Prompts
+🧠 13 AI Sessions, 244 AI Prompts
 
-GPT                      25,368 lines        █████████████████████████   100.00 % 
+GPT                      24,385 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.9% of written lines came from AI
-📄 Detailed Prompter — average 554 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 1.78% of changed lines were hand-edited
+🤖 AI-Driven — 97.84% of written lines came from AI
+📄 Detailed Prompter — average 544 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🚀 High AI Trust — 1.83% of changed lines were hand-edited
 ```
 
 
