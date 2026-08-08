@@ -60,7 +60,44 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ## WakaTime Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C507%20hrs%2056%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-288%20hrs%2027%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.40%20million%20lines%20of%20code-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               11 hrs 57 mins      ████████████████████████░   95.76 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 12 hrs 1 min (96.3%)
+
+✍️ 8,183 lines written by AI, 69 lines written by hand (99.16% AI-written)
+
+🔤 225,610,936 Input Tokens, 796,596 Output Tokens
+
+💵 $1229.19 Estimated AI Cost This Week
+
+🧠 10 AI Sessions, 151 AI Prompts
+
+GPT                      11,171 lines        █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.16% of written lines came from AI
+📄 Detailed Prompter — average 593 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🚀 High AI Trust — 0.77% of changed lines were hand-edited
+```
 
 
 <!--END_SECTION:waka-->
