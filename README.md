@@ -70,33 +70,33 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ```text
 💬 Programming Languages: 
-TypeScript               11 hrs 57 mins      ████████████████████████░   95.76 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+TypeScript               8 hrs 50 mins       ████████████████████████░   94.71 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 1 min (96.3%)
+⏱ AI Coding Time: 8 hrs 56 mins (95.79%)
 
-✍️ 8,183 lines written by AI, 69 lines written by hand (99.16% AI-written)
+✍️ 4,530 lines written by AI, 9 lines written by hand (99.8% AI-written)
 
-🔤 225,610,936 Input Tokens, 796,596 Output Tokens
+🔤 173,383,449 Input Tokens, 527,683 Output Tokens
 
-💵 $1229.19 Estimated AI Cost This Week
+💵 $882.38 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 151 AI Prompts
+🧠 7 AI Sessions, 120 AI Prompts
 
-GPT                      11,171 lines        █████████████████████████   100.00 % 
+GPT                      6,838 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.16% of written lines came from AI
-📄 Detailed Prompter — average 593 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 0.77% of changed lines were hand-edited
+🤖 AI-Driven — 99.8% of written lines came from AI
+📝 Concise Prompter — average 394 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🚀 High AI Trust — 0.32% of changed lines were hand-edited
 ```
 
 
