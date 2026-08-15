@@ -70,17 +70,17 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 20 mins       ███████████████████████░░   90.39 % 
+TypeScript               9 hrs 20 mins       ███████████████████████░░   90.41 % 
 Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 6 mins (97.83%)
+⏱ AI Coding Time: 10 hrs 6 mins (97.85%)
 
 ✍️ 3,553 lines written by AI, 83 lines written by hand (97.72% AI-written)
 
@@ -97,7 +97,7 @@ Composer                 0 lines             ░░░░░░░░░░░�
 🤖 AI-Driven — 97.72% of written lines came from AI
 📚 Verbose Prompter — average 3,247 characters per prompt
 🔁 Iterative Prompter — average 20 prompts per session
-🚀 High AI Trust — 2.09% of changed lines were hand-edited
+🚀 High AI Trust — 1.87% of changed lines were hand-edited
 ```
 
 
