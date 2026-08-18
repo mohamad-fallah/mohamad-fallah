@@ -60,9 +60,9 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ## WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C520%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C522%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-301%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-302%20hrs%2046%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.40%20million%20lines%20of%20code-blue?style=flat)
 
@@ -70,34 +70,32 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ```text
 💬 Programming Languages: 
-TypeScript               8 hrs 21 mins       ███████████████████████░░   92.70 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+TypeScript               5 hrs 56 mins       ████████████████████████░   97.21 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 47 mins (97.53%)
+⏱ AI Coding Time: 6 hrs (98.33%)
 
-✍️ 4,932 lines written by AI, 84 lines written by hand (98.33% AI-written)
+✍️ 2,348 lines written by AI, 2 lines written by hand (99.91% AI-written)
 
-🔤 5,602,352 Input Tokens, 576,614 Output Tokens
+🔤 4,036,653 Input Tokens, 313,567 Output Tokens
 
-💵 $88.80 Estimated AI Cost This Week
+💵 $60.68 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 324 AI Prompts
+🧠 18 AI Sessions, 213 AI Prompts
 
-GPT                      5,698 lines         █████████████████████████   100.00 % 
+GPT                      2,599 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.33% of written lines came from AI
-📚 Verbose Prompter — average 3,022 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 1.47% of changed lines were hand-edited
+🤖 AI-Driven — 99.91% of written lines came from AI
+📚 Verbose Prompter — average 2,153 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 0.08% of changed lines were hand-edited
 ```
 
 
