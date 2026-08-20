@@ -60,9 +60,9 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ## WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C522%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C523%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-302%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-303%20hrs%2033%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.40%20million%20lines%20of%20code-blue?style=flat)
 
@@ -70,32 +70,32 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 39 mins       ████████████████████████░   97.08 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+TypeScript               5 hrs 3 mins        █████████████████████████   98.60 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 43 mins (98.25%)
+⏱ AI Coding Time: 5 hrs (97.58%)
 
-✍️ 2,268 lines written by AI, 2 lines written by hand (99.91% AI-written)
+✍️ 2,054 lines written by AI, 2 lines written by hand (99.9% AI-written)
 
-🔤 3,661,808 Input Tokens, 298,636 Output Tokens
+🔤 3,191,108 Input Tokens, 263,751 Output Tokens
 
-💵 $57.65 Estimated AI Cost This Week
+💵 $48.06 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 203 AI Prompts
+🧠 14 AI Sessions, 162 AI Prompts
 
-GPT                      2,508 lines         █████████████████████████   100.00 % 
+GPT                      2,267 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📚 Verbose Prompter — average 2,115 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 0.08% of changed lines were hand-edited
+🤖 AI-Driven — 99.9% of written lines came from AI
+📚 Verbose Prompter — average 2,276 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 0.09% of changed lines were hand-edited
 ```
 
 
