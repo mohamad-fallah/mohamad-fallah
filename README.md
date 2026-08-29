@@ -70,31 +70,31 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 58 mins       ████████████████████████░   96.25 % 
-Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+TypeScript               5 hrs 45 mins       ███████████████████████░░   93.73 % 
+Bash                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 59 mins (96.63%)
+⏱ AI Coding Time: 5 hrs 48 mins (94.53%)
 
-✍️ 1,298 lines written by AI, 1 lines written by hand (99.92% AI-written)
+✍️ 1,318 lines written by AI, 1 lines written by hand (99.92% AI-written)
 
-🔤 4,328,726 Input Tokens, 322,033 Output Tokens
+🔤 5,104,473 Input Tokens, 331,037 Output Tokens
 
-💵 $3.55 Estimated AI Cost This Week
+💵 $5.47 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 256 AI Prompts
+🧠 20 AI Sessions, 264 AI Prompts
 
-GPT                      1,358 lines         █████████████████████████   100.00 % 
+GPT                      1,706 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.92% of written lines came from AI
-📚 Verbose Prompter — average 2,784 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 1.61% of changed lines were hand-edited
+📚 Verbose Prompter — average 2,765 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 1.56% of changed lines were hand-edited
 ```
 
 
