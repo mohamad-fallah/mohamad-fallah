@@ -60,46 +60,11 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ## WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C546%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C553%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-326%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-333%20hrs%206%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.44%20million%20lines%20of%20code-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               16 hrs 18 mins      ██████████████████████░░░   89.15 % 
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-CSS                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-Markdown                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 17 hrs 55 mins (97.97%)
-
-✍️ 13,577 lines written by AI, 72 lines written by hand (99.47% AI-written)
-
-🔤 133,937,448 Input Tokens, 1,139,023 Output Tokens
-
-💵 $678.04 Estimated AI Cost This Week
-
-🧠 31 AI Sessions, 602 AI Prompts
-
-Opus                     14,407 lines        ███████████████████████░░   90.90 % 
-GPT                      1,443 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.47% of written lines came from AI
-📚 Verbose Prompter — average 3,908 characters per prompt
-🔁 Iterative Prompter — average 19 prompts per session
-🚀 High AI Trust — 1.47% of changed lines were hand-edited
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.45%20million%20lines%20of%20code-blue?style=flat)
 
 
 <!--END_SECTION:waka-->
