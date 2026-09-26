@@ -70,25 +70,25 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ```text
 💬 Programming Languages: 
-TypeScript               42 hrs 30 mins      ███████████████████████░░   90.75 % 
-JSON                     1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Markdown                 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-Other                    36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-JavaScript               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+TypeScript               41 hrs 30 mins      ███████████████████████░░   90.55 % 
+JSON                     1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Markdown                 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Other                    36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+JavaScript               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 hrs 39 mins (88.93%)
+⏱ AI Coding Time: 40 hrs 50 mins (89.09%)
 
-✍️ 9,854 lines written by AI, 1,869 lines written by hand (84.06% AI-written)
+✍️ 9,854 lines written by AI, 1,868 lines written by hand (84.06% AI-written)
 
-🔤 91,710,128 Input Tokens, 2,093,452 Output Tokens
+🔤 91,652,736 Input Tokens, 2,036,060 Output Tokens
 
-💵 $506.23 Estimated AI Cost This Week
+💵 $505.19 Estimated AI Cost This Week
 
-🧠 136 AI Sessions, 1255 AI Prompts
+🧠 130 AI Sessions, 1207 AI Prompts
 
 Opus                     7,199 lines         ███████████████░░░░░░░░░░   61.26 % 
 GPT                      3,962 lines         ████████░░░░░░░░░░░░░░░░░   33.72 % 
@@ -96,9 +96,9 @@ Composer                 590 lines           █░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 84.06% of written lines came from AI
-📚 Verbose Prompter — average 5,352 characters per prompt
+📚 Verbose Prompter — average 5,375 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 16.4% of changed lines were hand-edited
+🚀 High AI Trust — 16.39% of changed lines were hand-edited
 ```
 
 
