@@ -60,9 +60,9 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ## WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C672%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C673%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-446%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-447%20hrs%204%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.87%20million%20lines%20of%20code-blue?style=flat)
 
@@ -70,36 +70,36 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ```text
 💬 Programming Languages: 
-TypeScript               36 hrs 26 mins      ███████████████████████░░   91.60 % 
-JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-Markdown                 1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-Other                    32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-TOML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+TypeScript               30 hrs 44 mins      ███████████████████████░░   93.67 % 
+JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Markdown                 31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+TOML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 hrs 56 mins (90.34%)
+⏱ AI Coding Time: 29 hrs 55 mins (91.19%)
 
-✍️ 9,854 lines written by AI, 1,602 lines written by hand (86.02% AI-written)
+✍️ 9,213 lines written by AI, 689 lines written by hand (93.04% AI-written)
 
-🔤 90,847,455 Input Tokens, 1,761,457 Output Tokens
+🔤 89,929,471 Input Tokens, 1,355,334 Output Tokens
 
-💵 $497.67 Estimated AI Cost This Week
+💵 $494.95 Estimated AI Cost This Week
 
-🧠 124 AI Sessions, 1056 AI Prompts
+🧠 117 AI Sessions, 800 AI Prompts
 
-Opus                     7,199 lines         ███████████████░░░░░░░░░░   61.26 % 
-GPT                      3,962 lines         ████████░░░░░░░░░░░░░░░░░   33.72 % 
-Composer                 590 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Opus                     7,199 lines         ████████████████░░░░░░░░░   65.70 % 
+GPT                      3,168 lines         ███████░░░░░░░░░░░░░░░░░░   28.91 % 
+Composer                 590 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.02% of written lines came from AI
-📚 Verbose Prompter — average 5,114 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 14.13% of changed lines were hand-edited
+🤖 AI-Driven — 93.04% of written lines came from AI
+📚 Verbose Prompter — average 5,149 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 6.41% of changed lines were hand-edited
 ```
 
 
