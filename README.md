@@ -70,36 +70,35 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ```text
 💬 Programming Languages: 
-TypeScript               31 hrs 34 mins      ███████████████████████░░   92.43 % 
-JSON                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Markdown                 35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-Other                    23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+TypeScript               22 hrs 17 mins      ████████████████████████░   94.79 % 
+Markdown                 25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+JSON                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs (87.85%)
+⏱ AI Coding Time: 19 hrs 47 mins (84.16%)
 
-✍️ 17,817 lines written by AI, 2,387 lines written by hand (88.19% AI-written)
+✍️ 14,107 lines written by AI, 2,314 lines written by hand (85.91% AI-written)
 
-🔤 21,314,577 Input Tokens, 1,564,801 Output Tokens
+🔤 14,869,358 Input Tokens, 1,248,769 Output Tokens
 
-💵 $351.15 Estimated AI Cost This Week
+💵 $316.21 Estimated AI Cost This Week
 
-🧠 49 AI Sessions, 662 AI Prompts
+🧠 21 AI Sessions, 404 AI Prompts
 
-GPT                      19,659 lines        ████████████████████████░   96.25 % 
-Codex-Vscode             766 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+GPT                      15,098 lines        ████████████████████████░   95.17 % 
+Codex-Vscode             766 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.19% of written lines came from AI
-📄 Detailed Prompter — average 1,233 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 12.81% of changed lines were hand-edited
+🤖 AI-Driven — 85.91% of written lines came from AI
+📄 Detailed Prompter — average 1,423 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🚀 High AI Trust — 14.18% of changed lines were hand-edited
 ```
 
 
