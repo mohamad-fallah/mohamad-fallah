@@ -70,34 +70,13 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 51 mins       ████████████████████████░   97.43 % 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 37 mins (82.03%)
-
-✍️ 4,950 lines written by AI, 693 lines written by hand (87.72% AI-written)
-
-🔤 4,857,904 Input Tokens, 424,628 Output Tokens
-
-💵 $27.34 Estimated AI Cost This Week
-
-🧠 7 AI Sessions, 159 AI Prompts
-
-GPT                      5,295 lines         █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 87.72% of written lines came from AI
-📄 Detailed Prompter — average 1,486 characters per prompt
-🔁 Iterative Prompter — average 23 prompts per session
-🚀 High AI Trust — 14.49% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
