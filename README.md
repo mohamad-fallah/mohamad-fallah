@@ -60,9 +60,9 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ## WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C740%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C746%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-504%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-509%20hrs%2041%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.02%20million%20lines%20of%20code-blue?style=flat)
 
@@ -70,31 +70,33 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ```text
 💬 Programming Languages: 
-TypeScript               14 mins             █████████████░░░░░░░░░░░░   50.01 % 
-Docker                   11 mins             ██████████░░░░░░░░░░░░░░░   39.15 % 
-Bash                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Ren'Py                   6 hrs 51 mins       ██████████████░░░░░░░░░░░   57.03 % 
+Other                    4 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   38.97 % 
+TypeScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Docker                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (34.25%)
+⏱ AI Coding Time: 4 hrs 52 mins (40.53%)
 
-✍️ 57 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 57 lines written by AI, 85,472 lines written by hand (0.07% AI-written)
 
-🔤 166,049 Input Tokens, 32,728 Output Tokens
+🔤 4,447,481 Input Tokens, 2,050,286 Output Tokens
 
-💵 $0.05 Estimated AI Cost This Week
+💵 $3.50 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 4 AI Prompts
+🧠 11 AI Sessions, 24 AI Prompts
 
 GPT                      57 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 198 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.07% of written lines came from AI
+📝 Concise Prompter — average 93 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 99.93% of changed lines were hand-edited
 ```
 
 
