@@ -60,7 +60,7 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ## WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C746%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C747%20hrs%2049%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-509%20hrs%2041%20mins-blue?style=flat)
 
@@ -70,19 +70,19 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ```text
 💬 Programming Languages: 
-Ren'Py                   6 hrs 51 mins       ██████████████░░░░░░░░░░░   57.03 % 
-Other                    4 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   38.97 % 
-TypeScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Docker                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Ren'Py                   7 hrs 46 mins       ███████████████░░░░░░░░░░   60.07 % 
+Other                    4 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   36.20 % 
+TypeScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Docker                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 52 mins (40.53%)
+⏱ AI Coding Time: 4 hrs 52 mins (37.65%)
 
-✍️ 57 lines written by AI, 85,472 lines written by hand (0.07% AI-written)
+✍️ 57 lines written by AI, 89,016 lines written by hand (0.06% AI-written)
 
 🔤 4,447,481 Input Tokens, 2,050,286 Output Tokens
 
@@ -93,10 +93,10 @@ Bash                     3 mins              ░░░░░░░░░░░�
 GPT                      57 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.07% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.06% of written lines came from AI
 📝 Concise Prompter — average 93 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 99.93% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.94% of changed lines were hand-edited
 ```
 
 
