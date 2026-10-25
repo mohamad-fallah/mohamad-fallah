@@ -70,31 +70,14 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ```text
 💬 Programming Languages: 
-Ren'Py                   7 hrs 46 mins       ████████████████░░░░░░░░░   62.39 % 
-Other                    4 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   37.60 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Ren'Py                   55 mins             █████████████████████████   99.80 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 42 mins (37.78%)
-
-✍️ 0 lines written by AI, 89,016 lines written by hand (0.0% AI-written)
-
-🔤 4,281,432 Input Tokens, 2,017,558 Output Tokens
-
-💵 $3.45 Estimated AI Cost This Week
-
-🧠 10 AI Sessions, 20 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 72 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
