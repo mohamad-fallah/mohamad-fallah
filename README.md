@@ -60,7 +60,7 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ## WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C747%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C747%20hrs%2058%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-509%20hrs%2041%20mins-blue?style=flat)
 
@@ -70,8 +70,8 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ```text
 💬 Programming Languages: 
-Ren'Py                   55 mins             █████████████████████████   99.80 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Bash                     8 mins              ████████████████████████░   94.58 % 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 ```
 
 🤖 **AI Coding This Week** 
