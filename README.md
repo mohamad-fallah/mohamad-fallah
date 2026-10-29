@@ -60,9 +60,9 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ## WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C747%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C748%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-509%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-510%20hrs%2057%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.02%20million%20lines%20of%20code-blue?style=flat)
 
@@ -70,14 +70,33 @@ I am a highly creative and enthusiastic **Web Developer** from Iran 🇮🇷 wit
 
 ```text
 💬 Programming Languages: 
-Bash                     8 mins              ████████████████████████░   94.58 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Other                    1 hr 12 mins        ██████████████████████░░░   86.06 % 
+Bash                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+CSV                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 16 mins (89.97%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 505,565 Input Tokens, 288,028 Output Tokens
+
+💵 $0.54 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 6 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 94 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
